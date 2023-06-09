@@ -1,10 +1,12 @@
-- 👋 Hello, @Idris haider
-- 👀 I’m interested in Game Dev., AI, Application Dev. and Further Web Dev.
-- 🗿 I'm almost a full stack developer.
-- 🌱 I’m good at Prog. Languages such as C, Python, Java and Web Development in HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on Web Projects that I find Interesting.
-- 📫 You can Reach me Through my email, twitter or other social media references provided on my webiste.
+<style>
+    h1{
+        text-align:center;
+    }
+    img{
+        width:28px;
+        height:28px;
+    }
+</style>
 
-<!---
-Idrisvohra9/Idrisvohra9 is a ✨ special ✨ repository because its the best ;)
---->
+# Hi, guys! ![Hi GIF](https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d) 
+This Repository has my work in python (Basics). There are many Topics that I've covered in it and explained in a simple language with commenting... Check it out😊❤️
