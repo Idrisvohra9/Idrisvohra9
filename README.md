@@ -17,7 +17,7 @@ FAVOURITE STACK : MERN
 
 🚀 **Project 1:** "themellowcoder" (In-Development) - More than just a coding community platform! themellowcoder with it's rich features such as OctoAI, Mellow Tunes, Discussion, Exploration, Plan A Code, Create stories and much more. Created with MERN & love.
 
-❤️‍🔥 **Project 2:** "react-admire" (In-Development) - Create admirable Flamboyant looking backgrounds easily in react with this library.
+❤️‍🔥 **Project 2:** "react-admire" (In-Development) - Create admirable Flamboyant looking backgrounds easily in react with this library. I am looking for collaboration in this please join me.
 
 💡 **Project 3:** "trmnl-colors" - Spark up your terminal applications in python by using the 'trmnl-colors' module. It really has much to offer. Being updated as you read.
 
@@ -26,8 +26,11 @@ FAVOURITE STACK : MERN
 I'm thrilled to be part of the ever-growing developer community, and I would love to connect with fellow coders, enthusiasts, and anyone with a passion for technology. Feel free to reach out to me through any of the channels below:
 
 🌐 [Website](https://iv-portfolio.vercel.app/)
+
 📧 [Email](mailto:idrishaider987@gmail.com)  
+
 💼 [LinkedIn](https://www.linkedin.com/in/idris-vohra-589106256/)  
+
 🐦 [Twitter](https://twitter.com/themellowcoder)  
 
 Don't forget to check out my repositories and projects. Your feedback, suggestions, and collaborations are always welcome!
