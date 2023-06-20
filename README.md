@@ -8,7 +8,10 @@ Hey there! Welcome to my GitHub profile, where innovation and creativity come to
 
 ## About Me
 
-I am a passionate and enthusiastic developer with a knack for problem-solving and a love for elegant code. With a cup of coffee in hand, I embark on exciting coding adventures, pushing the boundaries of what's possible. My goal is to create impactful solutions that make a difference and bring joy to users.
+A cool guy with a lot of ambitions and a never ending list of things to do!
+A full stack developer.. With a cup of coffee in hand, I embark on exciting coding adventures, pushing the boundaries of what's possible. My goal is to create impactful solutions that make a difference and bring joy to users.
+
+FAVOURITE STACK : MERN
 
 ## Projects That Will Amaze You!
 
