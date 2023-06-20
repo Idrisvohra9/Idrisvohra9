@@ -12,11 +12,11 @@ I am a passionate and enthusiastic developer with a knack for problem-solving an
 
 ## Projects That Will Amaze You!
 
-🚀 **Project 1:** "Cosmic Voyager" - Embark on an intergalactic journey, exploring the wonders of the universe through a stunning web application. Experience breathtaking visuals, learn fascinating space facts, and gaze at mesmerizing celestial bodies.
+🚀 **Project 1:** "themellowcoder (In-Development)" - More than just a coding community platform! themellowcoder with it's rich features such as OctoAI, Mellow Tunes, Discussion, Exploration, Plan A Code, Create stories and much more. Created with MERN & love.
 
-🎮 **Project 2:** "Pixel Quest" - Get ready for a nostalgic gaming experience! Dive into a retro-inspired, pixel-perfect world where you'll overcome challenges, defeat enemies, and save the day. Let the adventure begin!
+🎮 **Project 2:** "react-admire (In-Development)" - Create admirable Flamboyant looking backgrounds easily in react with this library.
 
-💡 **Project 3:** "Idea Generator" - Need a spark of creativity? Look no further! This innovative web app generates brilliant ideas for your next project, whether it's a new app, a catchy slogan, or a mind-blowing invention. Unleash your creativity now!
+💡 **Project 3:** "trmnl-colors" - Spark up your terminal applications in python by using the 'trmnl-colors' module. It really has much to offer. Being updated as you read.
 
 ## Let's Connect!
 
@@ -25,7 +25,7 @@ I'm thrilled to be part of the ever-growing developer community, and I would lov
 <!-- 🌐 [Website](https://example.com)   -->
 📧 [Email](mailto:idrishaider987@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/idris-vohra-589106256/)  
-🐦 [Twitter](https://twitter.com/devs_string)  
+🐦 [Twitter](https://twitter.com/themellowcoder)  
 
 Don't forget to check out my repositories and projects. Your feedback, suggestions, and collaborations are always welcome!
 
