@@ -56,7 +56,7 @@ I'm thrilled to be part of the ever-growing developer community, and I would lov
 
 💼 [LinkedIn](https://www.linkedin.com/in/idris-vohra-589106256/)  
 
-🐦 [Twitter](https://twitter.com/VohraIdris60392?t=hOmiCekZaAdpSgZn1iSeYA&s=09)  
+✖️ [X](https://twitter.com/VohraIdris60392?t=hOmiCekZaAdpSgZn1iSeYA&s=09)  
 
 Don't forget to check out my repositories and projects. Your feedback, suggestions, and collaborations are always welcome!
 
