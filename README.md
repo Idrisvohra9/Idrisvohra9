@@ -1,12 +1,26 @@
-<div align="center"><h1> Welcome to My GitHub Profile! 🌟</h1></div>
+[<img src="https://github.com/Idrisvohra9/Idrisvohra9/blob/main/github-banner.png" alt='Banner' style='width:100%'>](https://iv-portfolio.vercel.app)
+
+
+---
+
+<div align="center">
+  <h3>Hi 👋, I'm Idris</h3>
+</div>
+
+### Welcome to My GitHub Profile! 🌟
 Hey there! Welcome to my GitHub profile, where innovation and creativity come together! 😄 Here you'll find a collection of my projects, ideas, and a glimpse into my coding journey. So, sit back, relax, and let's explore the exciting world of code together!
 
-## About Me
+
+## 💫 About Me
 
 A cool guy with a lot of ambitions and a never ending list of things to do!
 A full stack developer.. With a cup of coffee in hand, I embark on exciting coding adventures, pushing the boundaries of what's possible. My goal is to create impactful solutions that make a difference and bring joy to users.
 <b/>
 [Find Me](https://iv-portfolio.vercel.app/)
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+
 
 ## Projects That Will Amaze You!
 
@@ -57,6 +71,8 @@ I'm thrilled to be part of the ever-growing developer community, and I would lov
 💼 [LinkedIn](https://www.linkedin.com/in/idris-vohra-589106256/)  
 
 ✖️ [X](https://twitter.com/VohraIdris60392?t=hOmiCekZaAdpSgZn1iSeYA&s=09)  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/codewith_muhilan/) 
 
 Don't forget to check out my repositories and projects. Your feedback, suggestions, and collaborations are always welcome!
 
