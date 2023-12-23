@@ -7,6 +7,8 @@
   <h3>Hi 👋, I'm Idris</h3>
 </div>
 
+
+
 ### Welcome to My GitHub Profile! 🌟
 Hey there! Welcome to my GitHub profile, where innovation and creativity come together! 😄 Here you'll find a collection of my projects, ideas, and a glimpse into my coding journey. So, sit back, relax, and let's explore the exciting world of code together!
 
@@ -19,7 +21,8 @@ A full stack developer.. With a cup of coffee in hand, I embark on exciting codi
 [Find Me](https://iv-portfolio.vercel.app/)
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 
 ## Projects That Will Amaze You!
@@ -68,12 +71,15 @@ I'm thrilled to be part of the ever-growing developer community, and I would lov
 
 📧 [Email](mailto:idrishaider987@gmail.com)  
 
-💼 [LinkedIn](https://www.linkedin.com/in/idris-vohra-589106256/)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idris-vohra-589106256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-✖️ [X](https://twitter.com/VohraIdris60392?t=hOmiCekZaAdpSgZn1iSeYA&s=09)  
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VohraIdris60392?t=aEsbEUu5db8gmjubgxZoGg&s=09)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/codewith_muhilan/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/idris_haider?igshid=MXdocjc5MDgyZjlsZw==) 
 
 Don't forget to check out my repositories and projects. Your feedback, suggestions, and collaborations are always welcome!
 
 Thank you for visiting my GitHub profile. Let's create something amazing together! ✨
+
+
+[![](https://visitcount.itsvg.in/api?id=@idrisvohra9&icon=3&color=1)](https://visitcount.itsvg.in)
