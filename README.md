@@ -26,14 +26,8 @@ A full stack developer.. With a cup of coffee in hand, I embark on exciting codi
 
 
 ## Projects That Will Amaze You!
-
-🦑 **Project 1:** "themellowcoder" (In-Development) - MERN Stack, More than just a coding community platform! themellowcoder with it's rich features such as OctoAI, Mellow Tunes, Discussion, Exploration, Plan A Code, Create stories and much more. Created with MERN & love.
-> Private
-
-🤵🏻🌊 **Project 2:** "JobWave - Job App" (In-Development) - React native app, The project is in its initial stage, which means that it only does what a simple job app is supposed to do. Simplistic Good looking Job Finder App.
-> Private
  
-🏥 **Project 3:** "Life-53" - Using NextJS, A real life clinic management and analysis software made for my father. 
+🏥 **Project 1:** "Life-53" - Using NextJS, A real life clinic management and analysis software made for my father. 
 > Private
 
 🌞 **Project 4:** "IV-Weather-Next" - Using NextJS, An extensive fully functional weather app, designed beautifully.
