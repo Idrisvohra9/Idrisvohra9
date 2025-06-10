@@ -30,31 +30,38 @@ A full stack developer.. With a cup of coffee in hand, I embark on exciting codi
 🏥 **Project 1:** "Life-53" - Using NextJS, A real life clinic management and analysis software made for my father. 
 > Private
 
-🌞 **Project 4:** "IV-Weather-Next" - Using NextJS, An extensive fully functional weather app, designed beautifully.
-> [Check it out](http://iv-weather-next.vercel.app/)
+🪙 **Project 2:** "AmdavadBuys" - Your Gateway to Ahmedabad's Market |
+Connect with local merchants, discover products, and explore services in your area 
+> [👀](https://amdavadbuys.vercel.app/)
 
-📊 **Project 5:** "Dashboard Analytics MERN" - MERN Stack Web-App, with national data and analysis, frontend made with mui and nivo chart library.
-> Private
+🔏 **Project 3:** "KDSM " - Secure your messages with Keyed Dynamic Shift Matrix encryption 
+> [👀](https://kdsm.vercel.app/)
+
+🌞 **Project 4:** "IV-Weather-Next" - Using NextJS, An extensive fully functional weather app, designed beautifully.
+> [👀](http://iv-weather-next.vercel.app/)
+
+📊 **Project 5:** "Padhaku" - A revolutionary EdTech platform transforming the learning experience! Create interactive quizzes, track student progress, and gamify education with modern UI/UX. Built for educators and students who believe learning should be engaging and fun! 🎓✨.
+> Coming soon...
 
 🍨 **Project 6:** "Mix Vanilla Web Projects" - HTML - CSS - JS, Small and big projects projects of mine in Vanilla Web Development.
-> [Check it out](https://github.com/Idrisvohra9/Mix-Vanilla-Web-Projects)
+> [👀](https://github.com/Idrisvohra9/Mix-Vanilla-Web-Projects)
 
 👨🏻‍💻 **Project 7:** "iv-portfolio" - React, Personal portfolio website with many functionalities, fully dynamic!
-> [Check it out](https://iv-portfolio.vercel.app/)
+> [👀](https://iv-portfolio.vercel.app/)
 
 📖 **Project 8:** "iv-blogz" - Wordpress, My blogging website where I post random things that come to my mind at my leisure.
-> [Check it out](https://ivblogz.wordpress.com/)
+> [👀](https://ivblogz.wordpress.com/)
 
 ## Library contribution packages React/PyPI:
 
 🔐 **Project 1:** "react-enigma-pin-lock" - React UI/UX component library that displays a pin input field and a set of buttons. Used for authentication purposes enriched with many cool enigma capacities that makes it cherry on top.
->[Check it Out](https://github.com/Idrisvohra9/react-enigma-pin-lock)
+>[👀](https://github.com/Idrisvohra9/react-enigma-pin-lock)
 
 ❤️‍🔥 **Project 2:** "react-admire" (In-Development) - Create admirable Flamboyant looking backgrounds easily in react with this library. I am looking for collaboration in this please join me.
->[Check it Out](https://github.com/Idrisvohra9/react-enigma-pin-lock)
+>[👀](https://github.com/Idrisvohra9/react-enigma-pin-lock)
 
 💡 **Project 3:** "trmnl-colors" - A Python package, Spark up your terminal applications in python by using the 'trmnl-colors' module. It really has much to offer.
->[Check it Out](https://github.com/Idrisvohra9/react-enigma-pin-lock)
+>[👀](https://github.com/Idrisvohra9/react-enigma-pin-lock)
 
 ### Explore many more projects and find out more about the above projects click [This](https://iv-portfolio.vercel.app/projects).
 ## Let's Connect!
