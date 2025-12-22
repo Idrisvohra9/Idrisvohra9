@@ -1,4 +1,4 @@
-[<img src="https://github.com/Idrisvohra9/Idrisvohra9/blob/main/github-banner.png" alt='Banner' style='width:100%'>](https://iv-portfolio.vercel.app)
+[<img src="https://github.com/Idrisvohra9/Idrisvohra9/blob/main/idris-banner.gif" alt='Banner' style='width:100%'>](https://iv-portfolio.vercel.app)
 
 
 ---
