@@ -1,4 +1,4 @@
-[<img src="https://github.com/Idrisvohra9/Idrisvohra9/blob/main/idris-banner.gif" alt='Banner' style='width:100%'>](https://iv-portfolio.vercel.app)
+[<img src="https://github.com/Idrisvohra9/Idrisvohra9/blob/main/idris-banner.gif" alt='Banner' style='width:100%'>](https://idrisvohra.vercel.app/)
 
 
 ---
@@ -18,57 +18,14 @@ Hey there! Welcome to my GitHub profile, where innovation and creativity come to
 A cool guy with a lot of ambitions and a never ending list of things to do!
 A full stack developer.. With a cup of coffee in hand, I embark on exciting coding adventures, pushing the boundaries of what's possible. My goal is to create impactful solutions that make a difference and bring joy to users.
 <b/>
-[Find Me](https://iv-portfolio.vercel.app/)
+[Find Me](https://idrisvohra.vercel.app/)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-
-
-## Projects That Will Amaze You!
- 
-🏥 **Project 1:** "Life-53" - Using NextJS, A real life clinic management and analysis software made for my father. 
-> Private
-
-🪙 **Project 2:** "AmdavadBuys" - Your Gateway to Ahmedabad's Market |
-Connect with local merchants, discover products, and explore services in your area 
-> [👀](https://amdavadbuys.vercel.app/)
-
-🔏 **Project 3:** "KDSM " - Secure your messages with Keyed Dynamic Shift Matrix encryption 
-> [👀](https://kdsm.vercel.app/)
-
-🌞 **Project 4:** "IV-Weather-Next" - Using NextJS, An extensive fully functional weather app, designed beautifully.
-> [👀](http://iv-weather-next.vercel.app/)
-
-📊 **Project 5:** "Padhaku" - A revolutionary EdTech platform transforming the learning experience! Create interactive quizzes, track student progress, and gamify education with modern UI/UX. Built for educators and students who believe learning should be engaging and fun! 🎓✨.
-> Coming soon...
-
-🍨 **Project 6:** "Mix Vanilla Web Projects" - HTML - CSS - JS, Small and big projects projects of mine in Vanilla Web Development.
-> [👀](https://github.com/Idrisvohra9/Mix-Vanilla-Web-Projects)
-
-👨🏻‍💻 **Project 7:** "iv-portfolio" - React, Personal portfolio website with many functionalities, fully dynamic!
-> [👀](https://iv-portfolio.vercel.app/)
-
-📖 **Project 8:** "iv-blogz" - Wordpress, My blogging website where I post random things that come to my mind at my leisure.
-> [👀](https://ivblogz.wordpress.com/)
-
-## Library contribution packages React/PyPI:
-
-🔐 **Project 1:** "react-enigma-pin-lock" - React UI/UX component library that displays a pin input field and a set of buttons. Used for authentication purposes enriched with many cool enigma capacities that makes it cherry on top.
->[👀](https://github.com/Idrisvohra9/react-enigma-pin-lock)
-
-❤️‍🔥 **Project 2:** "react-admire" (In-Development) - Create admirable Flamboyant looking backgrounds easily in react with this library. I am looking for collaboration in this please join me.
->[👀](https://github.com/Idrisvohra9/react-enigma-pin-lock)
-
-💡 **Project 3:** "trmnl-colors" - A Python package, Spark up your terminal applications in python by using the 'trmnl-colors' module. It really has much to offer.
->[👀](https://github.com/Idrisvohra9/react-enigma-pin-lock)
-
-### Explore many more projects and find out more about the above projects click [This](https://iv-portfolio.vercel.app/projects).
-## Let's Connect!
-
 I'm thrilled to be part of the ever-growing developer community, and I would love to connect with fellow coders, enthusiasts, and anyone with a passion for technology. Feel free to reach out to me through any of the channels below:
 
-🌐 [Website](https://iv-portfolio.vercel.app/)
+🌐 [Website](https://idrisvohra.vercel.app/)
 
 📧 [Email](mailto:idrishaider987@gmail.com)  
 
